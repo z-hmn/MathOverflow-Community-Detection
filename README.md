@@ -18,7 +18,7 @@ Python • Jupyter Notebook • NetworkX • Pandas • Matplotlib
 ## Run
 ```bash
 pip install pandas networkx matplotlib python-louvain
-jupyter notebook mathoverflow_community_detection.ipynb
+jupyter notebook MathOverflowAnalysis.ipynb
 
 
 
