@@ -2,7 +2,7 @@
 
 This project analyzes interaction data from MathOverflow to identify natural communities of mathematicians. Using Python and network analysis tools, the notebook builds a researcher interaction graph and applies community-detection algorithms to uncover clusters based on shared topics and Q&A relationships.
 What’s Included
-Graph construction from MathOverflow user interaction data
+Graph construction from MathOverflow user interaction data \n
 Network statistics (degree distribution, clustering, centrality)
 Community detection using Louvain and other methods
 Visualizations of researcher clusters
