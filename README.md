@@ -15,3 +15,8 @@ Python • Jupyter Notebook • NetworkX • Pandas • Matplotlib
 ```bash
 pip install pandas networkx matplotlib python-louvain
 jupyter notebook mathoverflow_community_detection.ipynb
+
+## Sample Visualization
+
+![Community graph](communityGraph2.png)
+
