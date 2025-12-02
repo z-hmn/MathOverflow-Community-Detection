@@ -11,12 +11,14 @@ This project analyzes interaction data from **MathOverflow** to identify communi
 ## Tools
 Python • Jupyter Notebook • NetworkX • Pandas • Matplotlib
 
+## Sample Visualization
+
+![Community graph](communityGraph2.png)
+
 ## Run
 ```bash
 pip install pandas networkx matplotlib python-louvain
 jupyter notebook mathoverflow_community_detection.ipynb
 
-## Sample Visualization
 
-![Community graph](communityGraph2.png)
 
